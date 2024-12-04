@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# A união faz a força: coletivo de bancários negros em busca de oportunidades
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este ebook de 6 páginas conta a história ficcional de um grupo de afinidade pessoas negras de um banco.  
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+MS Copilot 365 para escrever o ebbok
+Leonard AI, Microsft Bing Criador de Imagem e Imagine Art para criação da capa e imagens do corpo do texto.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o Copilot 365 para estruturar o conteúdo do ebook, criando um esqueleto inicial com seções e para redigir o texto, garantindo coesão e clareza para um tema sobre o qual já possuo domínio, no caso os benefícios de um coletivo de pessoas negras para a diversidade e equidade de oportunidades da empresa.As ferramentas Leonard AI, Microsft Bing Criador de Imagem e Imagine Art produziram ilustrações artísticas que refletem o tema do ebook tornando a experiência de leitura mais envolvente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O ebook traz de forma moderna e acessível um temática importante para o mercado de trabalho, a existência de um coletivo de funcionários negros no banco, para a geração de igualdade de oportunidades e o combate ao racismo 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi desafiador criar esse ebook, porque apesar da temática diversidade estar em voga, a geração de imagens em IA que refletissem o conteúdo do texto demandou tempo e análise mais criteriosa.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)

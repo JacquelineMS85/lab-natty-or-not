@@ -14,6 +14,8 @@ Usei o Copilot 365 para estruturar o conteúdo do ebook, criando um esqueleto in
 ## 🚀 Resultados
 O ebook traz de forma moderna e acessível um temática importante para o mercado de trabalho, a existência de um coletivo de funcionários negros no banco, para a geração de igualdade de oportunidades e o combate ao racismo 
 
+https://github.com/JacquelineMS85/lab-natty-or-not/blob/main/Ebook%20-%20Grupo%20de%20Afinidade.pdf
+
 ## 💭 Reflexão (Opcional)
 Foi desafiador criar esse ebook, porque apesar da temática diversidade estar em voga, a geração de imagens em IA que refletissem o conteúdo do texto demandou tempo e análise mais criteriosa.
 ```

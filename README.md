@@ -12,7 +12,7 @@ Leonard AI, Microsft Bing Criador de Imagem e Imagine Art para criação da capa
 Usei o Copilot 365 para estruturar o conteúdo do ebook, criando um esqueleto inicial com seções e para redigir o texto, garantindo coesão e clareza para um tema sobre o qual já possuo domínio, no caso os benefícios de um coletivo de pessoas negras para a diversidade e equidade de oportunidades da empresa.As ferramentas Leonard AI, Microsft Bing Criador de Imagem e Imagine Art produziram ilustrações artísticas que refletem o tema do ebook tornando a experiência de leitura mais envolvente.
 
 ## 🚀 Resultados
-O ebook traz de forma moderna e acessível um temática importante para o mercado de trabalho, a existência de um coletivo de funcionários negros no banco, para a geração de igualdade de oportunidades e o combate ao racismo 
+O ebook traz de forma moderna e acessível um temática importante para o mercado de trabalho, a existência de um coletivo de funcionários negros no banco, para a geração de igualdade de oportunidades e o combate ao racismo. O resultado desse projeto pode ser acessado no link abaixo, 
 
 https://github.com/JacquelineMS85/lab-natty-or-not/blob/main/Ebook%20-%20Grupo%20de%20Afinidade.pdf
 
